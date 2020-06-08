@@ -1,7 +1,7 @@
 # Closed-Loop
 Allemaal informatie verzameld over berekeningen en instellingen in met name AndroidAPS
 
-# Voeselabsorptie
+# Voedselabsorptie
 In het linkje van Ans (waarvoor dank!) lees ik dat Loop ook dynamisch de koolhydraat absorptie betekent. Oftewel: hij kijkt hoeveel jouw bloedsglucose stijgt, en bepaalt daarmee hoe snel je koolhydraten worden opgenomen.
 Daarbij geldt:
 - Lang rondhangende koolhydraten = weinig BG stijging = teveel insuline = te lage KH ratio.
